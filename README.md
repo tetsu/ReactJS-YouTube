@@ -1,6 +1,6 @@
 # ReactJS-YouTube
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This applicaiton shows YouTube videos in a simple page application using React.js.
 
 ###Getting Started###
 
