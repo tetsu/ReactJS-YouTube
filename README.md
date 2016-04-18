@@ -1,17 +1,25 @@
 # ReactJS-YouTube
 
-This applicaiton shows YouTube videos in a simple page application using React.js.
+This application shows YouTube videos in a simple page application using React.js.
 
 ###Getting Started###
 
 There are two methods for getting started with this repo.
 
 ####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
+
+1. To to [Google Developers Console](https://console.developers.google.com/) and get your own Youtube API key.
+2. Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
+	> git clone https://github.com/tetsu/ReactJS-YouTube.git
+	> cd ReactJS-YouTube
+```
+
+3. Add your Youtube API KEY on line 6 in src/index.js
+4. Install all the NPM packages and run this program.
+
+```
 	> npm install
 	> npm start
 ```
